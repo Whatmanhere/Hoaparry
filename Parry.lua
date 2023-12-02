@@ -8,7 +8,7 @@ Notification:Notify(
 )
 wait(1)
 Notification:Notify(
-    {Title = "TEXT TITLE", Description = "DESCRIPTION"},
+    {Title = "loading", Description = "by whatman and kyle"},
     {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 5, Type = "image"},
     {Image = "http://www.roblox.com/asset/?id=6023426923", ImageColor = Color3.fromRGB(255, 84, 84)}
 )
